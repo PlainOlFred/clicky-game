@@ -1,0 +1,51 @@
+[
+  {
+    "id": 0,
+    "image": "./images/city_1.jpg"
+  },
+  {
+    "id": 1,
+    "image": "./images/city_2.jpg"
+  }, 
+   {
+    "id": 2,
+    "image": "./images/city_3.jpg"
+  }, 
+   {
+    "id": 3,
+    "image": "./images/city_4.jpg"
+  }, 
+   {
+    "id": 4,
+    "image": "./images/city_5.jpg"
+  }, 
+   {
+    "id": 5,
+    "image": "./images/city_6.jpg"
+  }, 
+   {
+    "id": 6,
+    "image": "./images/city_7.jpg"
+  }, 
+   {
+    "id": 7,
+    "image": "./images/city_8.jpg"
+  }, 
+   {
+    "id": 8,
+    "image": "./images/city_9.jpg"
+  },
+  {
+    "id": 9,
+    "image": "./images/city_10.jpg"
+  }, 
+   {
+    "id": 10,
+    "image": "./images/city_11.jpg"
+  }, 
+   {
+    "id": 11,
+    "image": "./images/city_12.jpg"
+
+  }
+]
