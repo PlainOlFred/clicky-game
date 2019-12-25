@@ -1,3 +1,36 @@
+# Clicky-Game
+Test your memory by only click on each skyline once. Try to bet your own top score
+
+## MVP
+  - [X] Full React Application   
+  - [X] App render Images that listen for click events   
+  - [X] App track score for each image to is click only once
+  - [X] Score resets after an image is clicked twice
+  - [X] Images shuffle after each click
+  - [X] App records top score
+  - [ ] Deploy App
+
+  ## Tecgnologies Used
+    - React.js
+    - GitHub Pages
+  
+
+## Usage
+  - Click tiles of skylines and remember which ones you have click
+  > ![](./public/images/choose.gif)
+  - Title will randomize but you still have to aviod to rack up your score
+  > ![](./public/images/random.gif)
+  - Try to beat your top score
+  > ![](./public/images/score.gif)
+  - Score reset in you click on a skyline twice 
+  > ![](./public/images/reset.gif)
+  
+
+  - Demo
+  > ![](./public/images/Demo.gif)
+
+
+# React.js
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
